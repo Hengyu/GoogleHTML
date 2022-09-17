@@ -538,6 +538,4 @@ static int EscapeMapCompare(const void *ucharVoid, const void *mapVoid) {
     return finalString;
 } // gtm_stringByUnescapingHTML
 
-
-
 @end

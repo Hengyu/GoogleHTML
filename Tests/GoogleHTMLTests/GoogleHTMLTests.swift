@@ -5,6 +5,6 @@ final class GoogleHTMLTests: XCTestCase {
     func testExample() { }
 
     static var allTests = [
-        ("testExample", testExample),
+        ("testExample", testExample)
     ]
 }
